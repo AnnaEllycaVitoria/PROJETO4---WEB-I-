@@ -13,4 +13,6 @@ Praticar a criação de sites com múltiplas páginas interligadas, explorando a
 ## 📝 O que há no Projeto
 - Links (`<a>`) para navegação entre páginas.  
 - Menu de navegação (`<nav>`).  
-- Estrutura de site pessoal com diferentes seções distribuídas em páginas.  
+- Estrutura de site pessoal com diferentes seções distribuídas em páginas.
+
+- [Para acessar o site](https://annaellycavitoria.github.io/PROJETO4---WEB-I/)
